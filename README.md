@@ -7,22 +7,22 @@
 ### 项目缩略图
 
 登录界面
-![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github1.png)
+![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github01.png)
 
 国际化(i18n)
-![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github2.png)
+![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github02.png)
 
 vue-quill-editor 富文本
-![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github3.png)
+![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github03.png)
 
 ElementUI 表单
-![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github4.png)
+![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github04.png)
 
 函数节流、防抖、vue 全局过滤器
-![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github5.png)
+![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github05.png)
 
 echart 图表
-![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github6.png)
+![功能演示](http://zk-img.oss-cn-qingdao.aliyuncs.com/github/github06.png)
 
 ### 组织结构
 
