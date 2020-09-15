@@ -40,6 +40,8 @@ vue-admin
 ├── README -- 项目备注文件
 └── vue.config.js -- vue项目配置文件
 ```
+### 个人网站 / 新浪博客
+http://www.wxyweb.com   /   http://blog.sina.com.cn/wangxinyandc
 
 ## 打赏
 前后整理了一个月，希望能够帮助大家提高一点点效率！
