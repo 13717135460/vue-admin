@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T02:15:55.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TIvdrzmhMkKXOLsYhfFo" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T02:16:53.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LVs5t-S6g_GpaaosTgMp" version="21.2.9" type="github">
   <diagram name="第 1 页" id="RvbOkiFRiEU_Y_Q_C5jR">
     <mxGraphModel dx="3154" dy="3122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,8 +369,8 @@
         <mxCell id="TUClwBRdHytam8DGEJX_-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;待确认&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="-1137" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TUClwBRdHytam8DGEJX_-113" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1.个人中心二维码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-1096" width="160" height="40" as="geometry" />
+        <mxCell id="TUClwBRdHytam8DGEJX_-113" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1.个人中心付款二维码是否支持扫码支付&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1096" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
