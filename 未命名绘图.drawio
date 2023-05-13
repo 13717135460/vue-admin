@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T03:47:13.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="F69rg_ia3E_bFyqGXviu" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T03:53:49.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oNeTqMc7bBrOS4ymNh9A" version="21.2.9" type="github">
   <diagram name="第 1 页" id="RvbOkiFRiEU_Y_Q_C5jR">
-    <mxGraphModel dx="4261" dy="3663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4044" dy="3553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,12 +364,6 @@
         <mxCell id="TUClwBRdHytam8DGEJX_-108" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;停留在当前页&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-247.5" y="-964" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TUClwBRdHytam8DGEJX_-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;待确认&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-1137" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TUClwBRdHytam8DGEJX_-113" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1.个人中心付款二维码是否支持扫码支付&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-1096" width="340" height="40" as="geometry" />
-        </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px;&quot;&gt;赠送好友&lt;br&gt;(海报形式)&lt;/font&gt;" link="http://zk-web-object.oss-cn-qingdao.aliyuncs.com/guocai/test-share.png" linkTarget="_blank" id="TUClwBRdHytam8DGEJX_-114">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="-760" y="-7" width="189" height="60" as="geometry" />
@@ -445,9 +439,6 @@
               <mxPoint x="-1560" y="-440" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TUClwBRdHytam8DGEJX_-132" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2.提现详情(进度状态是否有)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="157" y="-1056" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
