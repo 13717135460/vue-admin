@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T02:16:53.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LVs5t-S6g_GpaaosTgMp" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T02:27:19.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3czhb5phs0XdN_bo19a_" version="21.2.9" type="github">
   <diagram name="第 1 页" id="RvbOkiFRiEU_Y_Q_C5jR">
     <mxGraphModel dx="3154" dy="3122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,31 +245,31 @@
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-720.4300000000001" y="-60" as="sourcePoint" />
-            <mxPoint x="-720.4300000000001" y="-10" as="targetPoint" />
+            <mxPoint x="-780.4300000000001" y="-60" as="sourcePoint" />
+            <mxPoint x="-780.4300000000001" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUClwBRdHytam8DGEJX_-76" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;立即领取&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-803.5" y="-9" width="159" height="60" as="geometry" />
+        <mxCell id="TUClwBRdHytam8DGEJX_-76" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;立即使用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-722" y="-7" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-801.5" y="103" width="160" height="80" as="geometry" />
+          <mxGeometry x="-721.5" y="103" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-721.4300000000001" y="52" as="sourcePoint" />
-            <mxPoint x="-721.4300000000001" y="102" as="targetPoint" />
+            <mxPoint x="-641.4300000000001" y="52" as="sourcePoint" />
+            <mxPoint x="-641.4300000000001" y="102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;提示错误信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-801" y="234" width="159" height="60" as="geometry" />
+          <mxGeometry x="-721" y="234" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-81" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-718" y="188" width="40" height="40" as="geometry" />
+          <mxGeometry x="-638" y="188" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TUClwBRdHytam8DGEJX_-83" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="TUClwBRdHytam8DGEJX_-83" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUClwBRdHytam8DGEJX_-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-641" y="143" as="sourcePoint" />
+            <mxPoint x="-560" y="143" as="sourcePoint" />
             <mxPoint x="-481" y="-476.9999999999998" as="targetPoint" />
             <Array as="points">
               <mxPoint y="143" />
@@ -282,8 +282,8 @@
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-722.4300000000001" y="184" as="sourcePoint" />
-            <mxPoint x="-722.4300000000001" y="234" as="targetPoint" />
+            <mxPoint x="-642.4300000000001" y="184" as="sourcePoint" />
+            <mxPoint x="-642.4300000000001" y="234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-87" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;兑换记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -363,7 +363,7 @@
         <mxCell id="TUClwBRdHytam8DGEJX_-108" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;停留在当前页&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-337.5" y="-964" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TUClwBRdHytam8DGEJX_-109" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;赠送券&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TUClwBRdHytam8DGEJX_-109" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;xxx&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="-363" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;待确认&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -371,6 +371,15 @@
         </mxCell>
         <mxCell id="TUClwBRdHytam8DGEJX_-113" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1.个人中心付款二维码是否支持扫码支付&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="-1096" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TUClwBRdHytam8DGEJX_-114" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;赠送券&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-7" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUClwBRdHytam8DGEJX_-115" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-663.4300000000001" y="-60" as="sourcePoint" />
+            <mxPoint x="-663.4300000000001" y="-10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
